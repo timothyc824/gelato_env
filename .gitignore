@@ -3,10 +3,11 @@
 .DS_Store
 .idea
 .vscode
-experimental/**/*.ipynb
+**/*.ipynb
 *.csv
 experiment_data
 **/lightning_logs
 ._**
 __pycache__
 .venv
+*.ipynb
