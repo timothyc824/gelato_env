@@ -14,7 +14,6 @@ source $HOME/.venvs/bin/activate
 pip install pipx
 pipx install black
 pipx install isort
-pipx install pydocstyle
 pipx install ruff
 pipx install pre-commit
 ```

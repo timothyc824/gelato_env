@@ -47,7 +47,6 @@ check: $(LOCAL_PYTHON)
 	ruff check --fix .
 	isort .
 	black .
-	pydocstyle .
 	@echo "Checks done."
 
 clean:
