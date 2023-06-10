@@ -9,3 +9,4 @@ experiment_data
 **/lightning_logs
 ._**
 __pycache__
+.venv
